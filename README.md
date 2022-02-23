@@ -2,7 +2,7 @@
 
 
 # SECTION A (Data Ingestion and API Communication) - Python
-In this part [https://github.com/Bolanle-kani/Data-Ingestion/blob/main/Github%20ML%20users.ipynb] I ingested github data of techies or github users in the Machine
+In this part.[https://github.com/Bolanle-kani/Data-Ingestion/blob/main/Github%20ML%20users.ipynb] I ingested github data of techies or github users in the Machine
 learning Field in the following locations on github. (Lagos, Nigeria,
 Rwanda). Github search was used for users API for this task. The final result for this task contains a dataframe that
 contains details of Github Users who do Machine Learning from the
